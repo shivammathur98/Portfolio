@@ -262,21 +262,6 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: 'Lovely Professional University Distance Education',
-      subtitle: 'Master of Science in Information Technology',
-      logo_path: lpu,
-      alt_name: 'L.P.U.D.E.',
-      duration: '2020 - Present',
-      color: '#ef7d00',
-      pcolor: '#000000',
-      textcolor: 'black',
-      descriptions: [
-        '⚡ Presently learning advanced topics related to IT subjects like Operating Systems, Database Management Systems, etc.',
-        '⚡ Apart from this, working on my side projects which involves development using the MERN stack.',
-      ],
-      website_link: 'https://www.lpude.in/',
-    },
-    {
       title: 'Bundelkhand Institute of Engineering & Technology, Jhansi',
       subtitle: 'Bachelor of Technology in Information Technology',
       logo_path: biet,
